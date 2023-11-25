@@ -1,4 +1,4 @@
-var url = 'http://192.168.8.101/digitalcellar/api-coding-test/public/api'
+var url = 'http://ip_backend/digitalcellar/api-coding-test/public/api'
 export default {
     login : `${url}/login`,
     getUsers : `${url}/user/get_users`,

@@ -2,7 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Change URL 
+first step you can change ip in the folder in the file src/utility/modal.js 
+
 ## Available Scripts
+
 
 In the project directory, you can run:
 
